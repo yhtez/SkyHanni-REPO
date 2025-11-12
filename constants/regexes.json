@@ -382,7 +382,7 @@
     "enchanting.experiments.ultrarare": "§d§kXX§5 ULTRA-RARE BOOK! §d§kXX",
     "enchanting.experiments.waiting.messages": "Click any button!|Click a second button!|Next button is instantly rewarded!",
     "enchanting.experiments.xpbottle": "(?:COLOSSAL_|TITANIC_|GRAND_|\\b)EXP_BOTTLE",
-    "event-diana.rare-mob-name": "(?:Minos Inquisitor|Sphinx|King Minos|Manticore)\\s*",
+    "event-diana.rare-mob-name": "(?:Minos Inquisitor|King Minos|Manticore)\\s*",
     "event.anniversary-celebration.400.team-finder.player-color-nametag": ".* §(?\u003ccolor\u003e.)⛃.*",
     "event.anniversary-celebration.400.team-finder.player-full-message": "This person has had too much cake today!",
     "event.carnival.goals.chat.catch.a.fish.play": "(§8 - §r)?§7Play §r§a3 games §r§7of §r§3Catch a Fish§r§7.",
